@@ -13,6 +13,17 @@ const config: Config = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
+      colors: {
+        'roxo': '#7D40E7',
+        'roxo-100': '#7424ff',
+        'branco': '#fff',
+        'cinza': '#DDDDDD'
+
+      },
+      fontFamily: {
+        'roboto': ['Roboto', 'sans-serif'],
+       
+      }
     },
   },
   plugins: [],
